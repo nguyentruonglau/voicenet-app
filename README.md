@@ -1,7 +1,7 @@
 
 # Genetic VoiceNet [![CircleCI](https://circleci.com/gh/faustomorales/keras-ocr.svg?style=shield)](https://github.com/nguyentruonglau) [![Documentation Status](https://readthedocs.org/projects/keras-ocr/badge/?version=latest)](https://github.com/nguyentruonglau)
 
-Application of VoiceNet - convolutional neural network architecture found by NSGA-II with code: 0-10 - 1-01-001 -  0-00.
+Application of VoiceNet - convolutional neural network architecture found by nondominated sorting genetic algorithm ii with code: 0-10 - 1-01-001 -  0-00.
 Two goals are optimized: accuracy and cost calculation
 > [Evolutionary Neural Architecture Search For Vietnamese Speaker Recognition]
 >
