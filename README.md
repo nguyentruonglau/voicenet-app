@@ -8,7 +8,7 @@ Two goals are optimized: accuracy and cost calculation
 > Nguyễn Trường Lâu - Student at University of Information Technology (UIT)
 >
 
-![overview](https://github.com/nguyentruonglau/Genetic-VoiceNet/blob/main/img/model.png "VoiceNet App")
+![overview](https://github.com/nguyentruonglau/voicenet-app/blob/main/img/gui.png "VoiceNet App")
 
 
 ## Requirements
