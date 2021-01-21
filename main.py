@@ -12,7 +12,6 @@ from PyQt5.QtCore import Qt
 from PyQt5.QtGui import * 
 from PyQt5.QtWidgets import * 
 import random
-import cv2
 import time
 import scipy.misc
 from pydub import AudioSegment
