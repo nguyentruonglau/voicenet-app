@@ -8,9 +8,6 @@ Two goals are optimized: accuracy and cost calculation.
 > Nguyễn Trường Lâu - Student at University of Information Technology (UIT)
 >
 
-![overview](https://github.com/nguyentruonglau/voicenet-app/blob/main/img/gui.png "VoiceNet App")
-
-
 ## Requirements
 ``` 
 ffmpeg-python==0.2.0
@@ -41,6 +38,8 @@ model/voicenet.hdf5
 ``` 
 python main.py --cfg=cfg/config.cfg
 ```
+
+![overview](https://github.com/nguyentruonglau/voicenet-app/blob/main/img/gui.png "VoiceNet App")
 
 ## Citations
 If you find the code useful for your research, please consider citing our works
